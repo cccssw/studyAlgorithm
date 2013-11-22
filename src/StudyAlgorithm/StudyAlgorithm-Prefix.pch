@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'StudyAlgorithm' target in the 'StudyAlgorithm' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

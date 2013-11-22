@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entries</key>
+	<array>
+		
+		<dict>
+			<key>group</key>
+			<string>Basics</string>
+			<key>entries</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Stack: Array Implementation</string>
+					<key>url</key>
+					<string>/visualization/StackArray.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Stack: Linked List Implementation</string>
+					<key>url</key>
+					<string>/visualization/StackLL.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Queues: Array Implementation</string>
+					<key>url</key>
+					<string>/visualization/QueueArray.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Queues: Linked List Implementation</string>
+					<key>url</key>
+					<string>/visualization/QueueLL.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+		
+		<dict>
+			<key>group</key>
+			<string>Recursion</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>Factorial</string>
+					<key>url</key>
+					<string>/visualization/RecFact.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Reversing a String</string>
+					<key>url</key>
+					<string>/visualization/RecReverse.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>N-Queens Problem</string>
+					<key>url</key>
+					<string>/visualization/RecQueens.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>separator</key>
+			<string></string>
+		</dict>
+
+		<dict>
+			<key>group</key>
+			<string>Indexing</string>
+			<key>entries</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Binary Search Trees</string>
+					<key>url</key>
+					<string>/visualization/BST.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>AVL Trees (Balanced binary search trees)</string>
+					<key>url</key>
+					<string>/visualization/AVLTree.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Red-Black Trees</string>
+					<key>url</key>
+					<string>/visualization/RedBlack.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Splay Trees</string>
+					<key>url</key>
+					<string>/visualization/SplayTree.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Open Hash Tables (Closed Addressing)</string>
+					<key>url</key>
+					<string>/visualization/OpenHash.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Closed Hash Tables (Open Addressing)</string>
+					<key>url</key>
+					<string>/visualization/ClosedHash.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Closed Hash Tables, using buckets</string>
+					<key>url</key>
+					<string>/visualization/ClosedHashBucket.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>B Trees</string>
+					<key>url</key>
+					<string>/visualization/BTree.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>B+ Trees</string>
+					<key>url</key>
+					<string>/visualization/BPlusTree.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+		
+		<dict>
+			<key>group</key>
+			<string>Sorting</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>Comparison Sorting</string>
+					<key>url</key>
+					<string>/visualization/ComparisonSort.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Bucket Sort</string>
+					<key>url</key>
+					<string>/visualization/BucketSort.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Counting Sort</string>
+					<key>url</key>
+					<string>/visualization/CountingSort.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Radix Sort</string>
+					<key>url</key>
+					<string>/visualization/RadixSort.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Heap Sort</string>
+					<key>url</key>
+					<string>/visualization/HeapSort.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+        
+        <dict>
+			<key>group</key>
+			<string>Heap-like Data Structures</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>Heaps</string>
+					<key>url</key>
+					<string>/visualization/Heap.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Binomial Queues</string>
+					<key>url</key>
+					<string>/visualization/BinomialQueue.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Fibonacci Heaps</string>
+					<key>url</key>
+					<string>/visualization/FibonacciHeap.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Leftist Heaps</string>
+					<key>url</key>
+					<string>/visualization/LeftistHeap.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Skew Heaps</string>
+					<key>url</key>
+					<string>/visualization/SkewHeap.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+        
+        <dict>
+			<key>group</key>
+			<string>Graph Algorithms</string>
+			<key>entries</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Breadth-First Search</string>
+					<key>url</key>
+					<string>/visualization/BFS.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Depth-First Search</string>
+					<key>url</key>
+					<string>/visualization/DFS.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Connected Components</string>
+					<key>url</key>
+					<string>/visualization/ConnectedComponent.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Dijkstra's Shortest Path</string>
+					<key>url</key>
+					<string>/visualization/Dijkstra.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Prim's Minimum Cost Spanning Tree</string>
+					<key>url</key>
+					<string>/visualization/Prim.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Topological Sort (Using Indegree array)</string>
+					<key>url</key>
+					<string>/visualization/TopoSortIndegree.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Topological Sort (Using DFS)</string>
+					<key>url</key>
+					<string>/visualization/TopoSortDFS.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Floyd-Warshall (all pairs shortest paths)</string>
+					<key>url</key>
+					<string>/visualization/Floyd.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+                <dict>
+					<key>name</key>
+					<string>Kruskal Minimum Cost Spanning Tree Algorithm</string>
+					<key>url</key>
+					<string>/visualization/Kruskal.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+        <dict>
+			<key>separator</key>
+			<string></string>
+		</dict>
+        <dict>
+			<key>group</key>
+			<string>Dynamic Programming</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>Calculating nth Fibonacci number</string>
+					<key>url</key>
+					<string>/visualization/DPFib.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+        
+        <dict>
+			<key>group</key>
+			<string>Geometric Algorithms</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>2D Rotation and Scale Matrices</string>
+					<key>url</key>
+					<string>/visualization/RotateScale2D.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+        
+        <dict>
+			<key>group</key>
+			<string>Others</string>
+			<key>entries</key>
+			<array>
+                <dict>
+					<key>name</key>
+					<string>Disjoint Sets</string>
+					<key>url</key>
+					<string>/visualization/DisjointSets.html</string>
+                    <key>inner</key>
+                    <string></string>
+				</dict>
+			</array>
+		</dict>
+
+	</array>
+</dict>
+</plist>

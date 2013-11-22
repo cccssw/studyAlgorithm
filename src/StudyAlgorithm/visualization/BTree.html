@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  	<title>
+			B-Tree Visualization 
+		</title>
+		
+		<!-- css sheet for how the page is laid out -->
+		
+		<link rel="stylesheet" href="css/lion-ui-kit-mini.css">
+			
+			
+		<!-- jqueury stuff.  Only used for the animation speed slider. -->
+		<link rel="stylesheet" href="ThirdParty/jquery-ui-1.8.11.custom.css">
+		<script src="ThirdParty/jquery-1.5.2.min.js"></script>
+		<script src="ThirdParty/jquery-ui-1.8.11.custom.min.js"></script>
+				
+		<!-- Javascript for the actual visualization code -->
+		<script type = "application/javascript" src = "AnimationLibrary/CustomEvents.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/UndoFunctions.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedObject.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedLabel.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedCircle.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedRectangle.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedLinkedList.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/HighlightCircle.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/Line.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimatedBTreeNode.js"> </script>
+		
+		<script type = "application/javascript" src = "AnimationLibrary/ObjectManager.js"> </script>
+		<script type = "application/javascript" src = "AnimationLibrary/AnimationMain.js"> </script>
+		<script type = "application/javascript" src = "AlgorithmLibrary/Algorithm.js"> </script>
+		<script type = "application/javascript" src = "AlgorithmLibrary/BTree.js"> </script> 
+				
+			
+	 </head> 
+	
+<body onload="init();">
+  <div class="scope bar topfixed">
+	<table id="AlgorithmSpecificControls"> </table>
+  </div>
+  <div class="content fullBg">
+	  <div class="view">
+        	<div id = "mainContent"> 
+
+					<!-- Drawing canvas where all animation is done.  Note:  can be resized in code -->
+
+				<canvas id="canvas" width="1000" height="500"></canvas>
+
+			</div>
+      </div>
+  </div>
+  <div class="footer">
+   	<div class="toolbar">
+	<table id="GeneralAnimationControls">  </table>
+   </div>
+ </div>
+</body>
+</html>
